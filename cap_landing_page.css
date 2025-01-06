@@ -216,6 +216,7 @@ header nav ul li a:hover {
     .first-image-div img {
         max-width: 90%; 
     }
+    
 }
 
 @media (max-width: 768px) {
@@ -239,6 +240,10 @@ header nav ul li a:hover {
 
     .first-image-div img {
         max-width: 80%; 
+    }
+
+    .logo h1{
+        font-size: 0.5 rem;
     }
 }
 
